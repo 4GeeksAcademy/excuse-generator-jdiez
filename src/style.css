@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.excuse {
+  margin-top: 250px;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 60px rgb(60, 60, 252);
+}
